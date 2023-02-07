@@ -1,0 +1,120 @@
+.Nav-ul li {
+    display: inline-block;
+    padding: 10px;
+    list-style: none;
+    color: black;
+}
+
+.Nav-ul {
+    padding: 5px;
+    margin: 0;
+    background-color: skyblue;
+    border-radius: 10%;
+
+}
+
+.Nav-ul li a {
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+.homeimg img{
+    
+    width: 48%;
+    height: 500px;
+    margin: 5px 5px 2px;
+
+}
+.Home{
+    text-align: center;
+}
+
+.Footer {
+   text-align: center;
+ display:inline-flex;   
+ justify-content: space-evenly;
+    width: 100%;
+    bottom: 0%;
+    background-color: skyblue;
+}
+.Footer ul{
+    list-style: none;
+}
+.Footer h1{
+    padding: 5px;
+}
+.sign {
+    margin-left: 30%;
+}
+.products{
+    margin-left: 30%;
+}
+.login {
+    margin-left: 30%;
+    margin-top: 100px;
+
+}
+
+.logo {
+    width: 50px;
+    height: 45px;
+    float: left;
+    border-radius: 50%;
+    margin-top: 0px;
+    margin-left: 15px;
+}
+
+.nav-right {
+    text-align: right;
+}
+.invalid{
+    color: red;
+    margin-top: -20px;
+    display: block;
+    margin-left: 25px;
+}
+.invalidend{
+    color: red;
+    margin-top: -20px;
+    display: block;
+    margin-left: 25px;
+}
+.productlist{
+    text-align: center;
+    margin-top: 50px;
+}
+.productlist ul li{
+    display: inline-block;
+    padding: 5px;
+    width: 150px;
+    border: 1px solid skyblue;
+}
+.productlist ul {
+    margin: 0px;
+}
+.search{
+    width: 400px;
+    margin: 20px;
+    height: 40px;
+    border: 1px solid skyblue;
+    padding-left: 20px;
+}
+.signcom {
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+}
+
+.signbtn {
+    margin: 0px 100px;
+    padding: 7px;
+    width: 157px;
+    background-color: skyblue;
+    border: 1px solid;
+}
+
+.sign h1 {
+    margin-left: 125px;
+}
